@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "logo": "Rαηյαη Kumαr",
+    "links": [
+      {
+        "title": "Security Researcher",
+        "url": "https://ranjan-8u3b.vercel.app/"
+      }
+    ]
+  },
+
+  "intro": {
+    "heading": "𝐈 𝐇𝐚𝐜𝐤 𝐄𝐭𝐡𝐢𝐜𝐚𝐥𝐥𝐲 𝐔𝐧𝐥𝐞𝐬𝐬 𝐈𝐭’𝐬 𝐚 𝐂𝐓𝐅",
+    "icon": "/icons/intro-icon.svg"
+  },
+   
+  "portrait": {
+    "image": "/portrait.png"
+  },
+
+"about": {
+  "text": " 𝐇𝐢, 𝐈'𝐦 𝐑𝐚𝐧𝐣𝐚𝐧 𝐀 𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐏𝐫𝐨𝐟𝐞𝐬𝐬𝐢𝐨𝐧𝐚𝐥 𝐰𝐢𝐭𝐡 𝐚 𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐎𝐟𝐟𝐞𝐧𝐬𝐢𝐯𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐧𝐝 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦𝐢𝐧𝐠. 𝐁𝐚𝐜𝐡𝐞𝐥𝐨𝐫'𝐬 𝐃𝐞𝐠𝐫𝐞𝐞 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞, 𝐒𝐨𝐥𝐢𝐝 𝐠𝐫𝐨𝐮𝐧𝐝𝐢𝐧𝐠 𝐢𝐧 𝐎𝐒, 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐩𝐫𝐨𝐭𝐨𝐜𝐨𝐥𝐬, 𝐚𝐧𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐭𝐡𝐫𝐞𝐚𝐭𝐬",
+  "icon": "/icons/about-icon.svg"
+}
+,
+
+
+  "contact": {
+    "label": "root@ranjan",
+    "heading": "ᵀʰᵉ ᴴᵘᵐᵃⁿ ᴮᵉʰᶤⁿᵈ ᵗʰᵉ ˢʰᵉˡˡ",
+    "linkIcon": "/icons/arrow-icon.svg",
+    "url": "https://ranjan-8u3b.vercel.app/"
+  },
+
+  "work": {
+    "projects": [
+      {
+        "title": "𝐂𝐄𝐇",
+        "url": "https://github.com/kabir0104k/HackerHub/blob/main/CEH%20V12_page-0001.jpg?raw=true",
+        "media": "/CEH.png"
+      },
+      {
+        "title": "𝐞𝐉𝐏𝐓",
+        "url": "",
+        "media": "/eJPT.png"
+
+      },
+      {
+        "title": "𝐞𝐂𝐏𝐏𝐓𝐕𝟐",
+        "url": "https://raw.githubusercontent.com/kabir0104k/HackerHub/refs/heads/main/eCPPTv1_page-0001.jpg",
+        "media": "/eCPPT.png"
+
+      },
+      {
+        "title": "𝐞𝐖𝐏𝐓𝐗𝐕𝟐",
+        "url": "https://raw.githubusercontent.com/kabir0104k/HackerHub/refs/heads/main/eWPTXv2_page-0001.jpg",
+        "media": "/eWPTX.png"
+
+      },
+      {
+        "title": "𝐃𝐀𝐍𝐓𝐄",
+        "url": "https://raw.githubusercontent.com/kabir0104k/HackerHub/refs/heads/main/Dante-certificate_page-0001.jpg",
+        "media": "/DANTE.png"
+      },
+            {
+        "title": "𝐙𝐄𝐏𝐇𝐘𝐑",
+        "url": "https://github.com/kabir0104k/HackerHub/blob/main/Zephyr_page-0001.jpg?raw=true",
+        "media": "/ZEPHYR.png"
+      },
+            {
+        "title": "𝐑𝐀𝐒𝐓𝐀𝐋𝐀𝐁𝐒",
+        "url": "https://raw.githubusercontent.com/kabir0104k/HackerHub/refs/heads/main/RastaLabs.jpg",
+        "media": "/RASTALABS.png"
+      }
+      
+      
+    ],
+    "linkIcon": "/icons/arrow-icon-black.svg"  
+  },
+
+ 
+  "socials": {
+    "links": [
+      {
+        "title": "TryHackMe",
+        "url": "https://tryhackme.com/p/Vuln0ps"
+      },
+      {
+        "title": "Linkedin",
+        "url": "https://www.linkedin.com/in/ranjankumar6289/"
+      },
+      {
+        "title": "Github",
+        "url": "https://github.com/kabir0104k"
+      }
+    ]
+  }
+}
