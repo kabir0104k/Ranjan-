@@ -4,8 +4,7 @@ import './globals.css';
 
 export const metadata = {
   title: 'Rαηյαη ',
-  description:
-    'Bentolio is a clean and customizable portfolio template built on Bento Grids, perfect for showcasing your work.',
+  description: ' ',
 };
 
 const fontHeading = DM_Serif_Display({
